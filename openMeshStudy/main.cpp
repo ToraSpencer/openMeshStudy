@@ -9,11 +9,9 @@ typedef OpenMesh::PolyMesh_ArrayKernelT<>  MyMesh;
 
 // 当前使用的openMesh库信息：
 /*
-	是编译好的vs2015，64位，debug版本
+	是编译好的vs2017，64位，debug版本
 
 */
-
-
 
 int main()
 {
